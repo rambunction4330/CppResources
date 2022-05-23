@@ -1,15 +1,20 @@
-# CppResources
-Resources for learning C++!
-
 Hi all,
 
-I’m gonna try and send this to some of the 8th graders we talked to last week as well, so I've included some more formal introductions. 
+This only really pertains to programming, so if your not intrested in that you can ignore this. Also, I’m gonna try and send this to some of the 8th graders we talked to a few weeks ago as well, so I've included some more formal introductions. 
 
-My name is George, and along with Aiden, we are in charge of programming for the high school robotics team. If you aren’t interested in programming you can just ignore this. Last week some of the 8th graders asked for some resources to get started programming in C++, which will be used on the robot next year, but I didn’t have anything. So as not to leave them empty-handed, I thought I'd make a "little” list. To be clear, this isn’t a “required” summer assignment.
+My name is George, and along with Aiden, we are in charge of programming for the high school robotics team. Last week some of the 8th graders asked for some resources to get started programming in C++, which will be used on the robot next year, but I didn’t have anything. So as not to leave them empty-handed, I thought I'd make a "little” list. To be clear, this isn’t a “required” summer assignment.
 
 That being said, if you don’t have any experience programming, I can’t recommend learning in the middle of the robotics season. There is simply too much to do, and too little time. 
 
-Although next year I will have more time to teach new members, it is a lot of material to cover in a short duration. It may be more rewarding to devote time to other aspects of the robot such as mechanical or electrical while developing programming skills for future years. Additionally, if you aren’t able to participate in programming one year, it does not mean you are not able to contribute in the next. On a similar note, if you weren’t able to contribute much to programing in previous years but still wish to, I encourage you to give it a second chance. I’ll likely have more time and do a better job explaining programming concepts next year. So if you're up for the challenge, great! I recommend you at least take a look at some of the links below to get a head start. The more of the boring language stuff you know coming in, the more time we can spend on the robot!
+Although next year I should have more time to teach new members, it is a lot of material to cover in a short duration. It may be more rewarding to devote time to other aspects of the robot such as mechanical or electrical while developing programming skills for future years. Additionally, if you aren’t able to participate in programming one year, it does not mean you are not able to contribute in the next. But if you're up for the challenge, great! I recommend you at least take a look at some of the links below to get a head start. The more of the boring language stuff you know coming in, the more time we can spend on the robot!
+
+You can find a list fo reasources here on out git repository: https://github.com/rambunction4330/CppResources. You can also find previouse years code. But Warning: It is a incomprehensable mess (as it always becomes in the end). You don't need to go through all of these links. Try to get to the actual programming part down rather than getting bogged down in boring conceptual details which will make you lose enthusiasm. See how far you can get on a webpage. You'll outgrow it, but it will make sure you don’t get stuck trying to install the right version of a command-line tool you don’t understand as I have so often done. I wish you all a great summer and I hope to see you next year in robotics.
+
+Please feel free to reach out for any clarification,
+George Jurgiel
+
+# CppResources
+Resources for learning C++!
 
 ## Editors:
 If you are going to write code, you’ll need a place to run it. Unfortunately, this can end up being a larger challenge than the programming itself and differs from platform to platform. If you don’t have much experience, start by playing around in an online editor. I will typically use a local IDE like CLion, Code::Blocks, Xcode, or VSCode. And while it can be annoying and difficult, it is helpful to learn to manually edit and run code from the command line.
@@ -50,8 +55,3 @@ All of the computers on the robot run a version of the Linux operating system. A
  - to learn Vim (a command line text editor) just type `vimtutor` into the terminal. (Text editor)
  - https://www.tutorialspoint.com/unix/index.htm (Unix overview)
  - http://www.ee.surrey.ac.uk/Teaching/Unix/ (Unix Overview)
-
-  You do not need to go through all of these links. Try to get to the actual programming part down rather than getting bogged down in boring conceptual details which will make you lose enthusiasm. See how far you can get on a webpage. You'll outgrow it, but it will make sure you don’t get stuck trying to install the right version of a command-line tool you don’t understand as I have so often done. I wish you all a great summer and I hope to see you next year in robotics.
-
-Please feel free to reach out for any clarification,
-George Jurgiel
