@@ -1,9 +1,9 @@
 # Resources
-Resources for learning C++!
+Programming reasources for Rambunction4330
 
 # C++
 
-## #Editors:
+### Editors:
 If you are going to write code, you’ll need a place to run it. Unfortunately, this can end up being a larger challenge than the programming itself and differs from platform to platform. If you don’t have much experience, start by playing around in an online editor. I will typically use a local IDE like CLion, Code::Blocks, Xcode, or VSCode. And while it can be annoying and difficult, it is helpful to learn to manually edit and run code from the command line.
  - https://www.onlinegdb.com/online_c++_compiler (Online. And run multi-file programs)
  - http://cpp.sh (Online)
