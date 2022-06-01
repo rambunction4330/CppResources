@@ -2,7 +2,7 @@ Hi all,
 
 This only really only pertains to programming, so if you're not interested in that you can ignore this. Also, I’m going to try and send this to some of the 8th graders we talked to a few weeks ago as well, so I've included some more formal introductions. 
 
-My name is George Jurgiel, and along with Aiden Lambert, am in charge of programming for the high school robotics team. Last week some of the 8th graders asked for some resources to get started programming in C++, which will be used on the robot next year, but I didn’t have anything. So, as not to leave them empty-handed, I thought I'd make a "little” list. To be clear, this isn’t a “required” summer assignment.
+My name is George Jurgiel, and along with Aiden Lambert, am in charge of programming for the high school robotics team. A while back some of the 8th graders asked for some resources to get started programming in C++, which will be used on the robot next year, but I didn’t have anything. So, as not to leave them empty-handed, I thought I'd make a "little” list. To be clear, this isn’t a “required” summer assignment.
 
 That being said, if you don’t have any experience programming, I can’t recommend learning in the middle of the robotics season. There is simply too much to do, and too little time. 
 
